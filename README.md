@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="center" alt="Coding" width="80%" src="https://scholarlyoa.com/wp-content/uploads/2020/05/Software-Development-Project.png">
+<img align="center" alt="Coding" width="100%" src="https://scholarlyoa.com/wp-content/uploads/2020/05/Software-Development-Project.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaljha1710&label=Profile%20views&color=0e75b6&style=flat" alt="vishaljha1710" /> </p>
 
