@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png">
+<img align="right" alt="Coding" width="400" src="https://scholarlyoa.com/wp-content/uploads/2020/05/Software-Development-Project.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaljha1710&label=Profile%20views&color=0e75b6&style=flat" alt="vishaljha1710" /> </p>
 
