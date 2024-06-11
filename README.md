@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishaljha1710](https://github.com/vishaljha1710)
+- 👨‍💻 All of my projects are available at [https://github.com/vishaljha1710](https://github.com/vishaljha1710/repositories)
 
 - 💬 Ask me about **Angular, React, MongoDB, NodeJS, ML**
 
