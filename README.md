@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **romanvkj2001@gmail.com**
 
-- ⚡ Fun fact **I am also a gamer.**
+- ⚡ Fun fact **I am also into gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
